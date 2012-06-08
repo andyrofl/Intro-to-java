@@ -1,25 +1,25 @@
-2/10	Unconfirmed			GuidedTour.java
-2/17						BingoCard.java
-3/2							Distance.java
-3/7							TempConverter.java
-3/8							DivAndMod.java
-3/10						Sleep.java
-3/14						TimeConversion.java
-3/21						SurfsUp.java
-3/24						Discriminant.java
-4/4		Unconfirmed			Eggs.java
-4/5							Quadratic.java
-4/5							TrigFunctions.java
-4/12						PercentPassing.java
-4/15						OddSum.java
-4/27	Missing				CountVowels.java
-4/28	Missing				Necklace.java
-5/19	Unconfirmed			AddCoins.java
-5/4		Unconfirmed			ArrayFun.java
-5/5		finish check		DeckOfCards.java
-6/2		Unconfirmed			Coin.java
-6/2		Unconfirmed			CoinClient.java
-5/16	Unconfirmed			House.java
-3/30	finish check		CardApplication.java
-4/6		Missing				CarPayment.java
-3/16	Missing				Flag.java
+2/10    Unconfirmed             GuidedTour.java
+2/17                            BingoCard.java
+3/2                             Distance.java
+3/7                             TempConverter.java
+3/8                             DivAndMod.java
+3/10                            Sleep.java
+3/14                            TimeConversion.java
+3/21                            SurfsUp.java
+3/24                            Discriminant.java
+4/4     Unconfirmed             Eggs.java
+4/5                             Quadratic.java
+4/5                             TrigFunctions.java
+4/12                            PercentPassing.java
+4/15                            OddSum.java
+4/27    Missing                 CountVowels.java
+4/28    Missing                 Necklace.java
+5/19                            AddCoins.java
+5/4     Unconfirmed             ArrayFun.java
+5/5     Finish check            DeckOfCards.java
+6/2                             Coin.java
+6/2                             CoinClient.java
+5/16                            House.java
+3/30    finish check            CardApplication.java
+4/6     Missing                 CarPayment.java
+3/16    Missing                 Flag.java
