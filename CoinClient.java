@@ -1,6 +1,6 @@
 /**
  * Author: Andy Pacher
- * Date: May 13th, 2011
+ * Date: June 2nd, 2011
  * Assignment: CoinClient.java
  */
 
