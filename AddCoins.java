@@ -1,6 +1,6 @@
 /**
  * Author: Andy Pacher
- * Date: May 4th, 2011
+ * Date: May 19th, 2011
  * Assignment: AddCoins.java
  */
 

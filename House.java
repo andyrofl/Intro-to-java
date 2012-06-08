@@ -1,6 +1,6 @@
 /**
  * Author: Andy Pacher
- * Date: May 20th, 2011
+ * Date: May 16th, 2011
  * Assignment: House.java
  */
 
